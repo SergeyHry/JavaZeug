@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaVertiefung.iml" filepath="$PROJECT_DIR$/JavaVertiefung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lists_and_oop/lists_and_oop.iml" filepath="$PROJECT_DIR$/lists_and_oop/lists_and_oop.iml" />
     </modules>
   </component>
 </project>
